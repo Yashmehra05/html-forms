@@ -1,0 +1,16 @@
+ h1{
+    background-color: aqua;
+    color: wheat;
+    border: 2px solid black;
+}
+.o-list:first-child{
+    color: green;
+}
+#CO{
+    width: 400px;
+    height: 350px;
+    /* background:linear-gradient(to left,red,blue,white, orange); */
+    /* background:linear-gradient(to top left,red,blue,white, orange); */
+    /* 0 degree = bottom */
+    background:linear-gradient(70deg,red,blue,white, orange);
+}
